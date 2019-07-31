@@ -1,1 +1,1 @@
-# omka-classic-scripts
+# omeka-classic-scripts
